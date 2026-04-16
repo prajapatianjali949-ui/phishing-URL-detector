@@ -74,10 +74,10 @@ Dataset improvements include:
 ## 📸 Screenshots
 
 ### ✅ Legitimate URL Detection
-![Legitimate](screenshots/legit.png)
+![Legitimate](screenshots/legit)
 
 ### ⚠️ Phishing URL Detection
-![Phishing](screenshots/phishing.png)
+![Phishing](screenshots/phishing)
 
 ---
 
